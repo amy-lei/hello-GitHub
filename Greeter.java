@@ -7,6 +7,7 @@ public class Greeter {
         greet( "Professor Kernighan");
         greet( "Admiral Hopper");
         greet( "Good-time Johnny");
+        greet( "Mr.Holmes");
     }
     /*
     One cannot define greet in the function body of another method. However, it is legal to define greet both before the main method or after the main method. 
