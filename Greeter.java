@@ -5,7 +5,7 @@ public class Greeter {
     
     public static void main(String[] person) {                        
         greet( "Professor Kernighan");
-        greet( "Admiral Hopper");
+        greet( "Kyle Sacks");
         greet( "Good-time Johnny");
         greet( "Mr.Holmes");
     }
